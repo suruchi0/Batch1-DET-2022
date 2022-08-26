@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\Emppp\Emppp\bin\Debug\net6.0\Emppp.exe
+C:\Users\ETG1\source\repos\Emppp\Emppp\bin\Debug\net6.0\Emppp.deps.json
+C:\Users\ETG1\source\repos\Emppp\Emppp\bin\Debug\net6.0\Emppp.runtimeconfig.json
+C:\Users\ETG1\source\repos\Emppp\Emppp\bin\Debug\net6.0\Emppp.dll
+C:\Users\ETG1\source\repos\Emppp\Emppp\bin\Debug\net6.0\Emppp.pdb
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.dll
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\refint\Emppp.dll
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.pdb
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\Emppp.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\Emppp\Emppp\obj\Debug\net6.0\ref\Emppp.dll
